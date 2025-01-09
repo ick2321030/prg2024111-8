@@ -4,9 +4,8 @@ body{
 }
 
 h1{
-    font-size: large;
-    font-variant: bold;
     color: blue;
+    background-color: black;
 }
 
 h2{
