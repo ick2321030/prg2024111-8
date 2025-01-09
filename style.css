@@ -4,7 +4,8 @@ body{
 }
 
 h1{
-    font-size: xx-large;
+    font-size: larger;
+    font-weight: bold;
     color: blue;
     background-color: black;
 }
